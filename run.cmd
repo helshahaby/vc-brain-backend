@@ -1,0 +1,7 @@
+set SUPABASE_PROJECT_ID=stabwnykawriicofzyky
+set SUPABASE_PUBLISHABLE_KEY=sb_publishable_pkAvUtkOfeGSU07snr4xNA_D6TfwGli
+set SUPABASE_URL=https://stabwnykawriicofzyky.supabase.co
+set SUPABASE_SERVICE_KEY=sb_publishable_pkAvUtkOfeGSU07snr4xNA_D6TfwGli
+set VITE_SUPABASE_PROJECT_ID=stabwnykawriicofzyky
+set VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_pkAvUtkOfeGSU07snr4xNA_D6TfwGli
+set VITE_SUPABASE_URL=https://stabwnykawriicofzyky.supabase.co
