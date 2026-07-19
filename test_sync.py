@@ -15,13 +15,13 @@ headers = {
 # Dummy payload matching the exact Zod schema Lovable built
 payload = {
     "startup": {
-        "name": "Test Terminal Connection",
+        "name": "Test Terminal Connection 8",
         "synopsis": "Verifying the backend-to-frontend bridge",
         "industry": "DevTools",
         "signal_source": "github",
         "signal_reason": "Testing secure handshake",
-        "growth_velocity": 99.9,
-        "ai_score": 99,
+        "growth_velocity": 91.9,
+        "ai_score": 98,
         "sparkline": [10, 20, 30, 40, 50, 99],
     },
     "pipeline": {
