@@ -12,6 +12,7 @@ It is Designed specifically for automated capital allocation pipelines, the engi
 
 ## 🗺️ 1. How the Entire System Works (The Architecture)
 
+```
  [ Lovable UI Dashboard ] ──( Updates Table Status )──> [ Supabase DB ]
                                                              │
                                                      (Polls / Triggers)
@@ -21,6 +22,7 @@ It is Designed specifically for automated capital allocation pipelines, the engi
                                                       (Runs LLM Loop)
                                                              ▼
                                                     [ OpenAI GPT-4o ]
+```
 
             
 
